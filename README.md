@@ -15,7 +15,7 @@ into Evaluate_Equation.ipynb
 # Code Explained
 
 
-1. Extract_data.ipynb
+**1. Extract_data.ipynb**
 
 
 
@@ -40,7 +40,7 @@ Store in list and convert to csv
 
 
 
-2. Handwritten_train.ipynb
+**2. Handwritten_train.ipynb**
 
 
 
@@ -62,7 +62,7 @@ Save the model
 
 
 
-3. Evaluate_Equation.ipynb
+**3. Evaluate_Equation.ipynb**
 
 
 
