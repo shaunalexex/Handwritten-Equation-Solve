@@ -1,18 +1,18 @@
 # Handwritten-Equation-Solve
 Solving Handwritten Equation using Convolutional Neural Network
 
-#Requirements
+# Requirements
 
 1. OpenCV
 2. Keras
 
-#Introduction
+# Introduction
 
 In this project I have tried to use opencv and pretrain resnet50 model to evaluate handwritten
 expressions. To test the project I have created handwritten expressions on paint and loaded the image
 into Evaluate_Equation.ipynb
 
-#Code Explained
+# Code Explained
 
 1. Extract_data.ipynb
 
@@ -48,7 +48,7 @@ Use boxes to crop image
 Fit the model on the cropped image
 Use eval function to evaluate expression
 
-#Results
+# Results
 
 The Resnet model is trained for 10 epochs with a batch size of 200 to an accuracy of 98%
 
