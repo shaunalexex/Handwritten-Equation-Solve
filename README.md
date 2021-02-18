@@ -14,7 +14,10 @@ into Evaluate_Equation.ipynb
 
 # Code Explained
 
+
 1. Extract_data.ipynb
+
+
 
 load images from dataset
 
@@ -35,7 +38,12 @@ Append class ( as numbers 0 to 12 )
 Store in list and convert to csv
 
 
+
+
 2. Handwritten_train.ipynb
+
+
+
 
 import csv using pandas
 
@@ -52,7 +60,12 @@ Train the model
 Save the model
 
 
+
+
 3. Evaluate_Equation.ipynb
+
+
+
 
 import test image
 
@@ -69,6 +82,8 @@ Use boxes to crop image
 Fit the model on the cropped image
 
 Use eval function to evaluate expression
+
+
 
 
 # Results
